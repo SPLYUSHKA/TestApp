@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppTest</string>
+    <string name="title_home">Меню</string>
+    <string name="title_dashboard">Профиль</string>
+    <string name="title_notifications">Корзина</string>
+    <string name="base_url">https://products.310ultraects.keenetic.pro/</string>
+    <string-array name="spinner_items">
+        <item>Москва</item>
+        <item>Екатеринбург</item>
+        <item>Новосибирск</item>
+    </string-array>
+</resources>
